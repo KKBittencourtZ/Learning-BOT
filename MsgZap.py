@@ -1,4 +1,4 @@
-from selenium import webdriver
+from Selenium import webdriver
 from time import sleep
 
 class WhatsappBot:
